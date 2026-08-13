@@ -21,3 +21,5 @@ A recommended approach per type is captured, with reasoning.
 The multi-publisher schema change behavior and handling is documented.
 A test/simulation plan exists to validate identity preservation across the rebuild types.
 Findings are captured in a document suitable for application-team review.
+
+
